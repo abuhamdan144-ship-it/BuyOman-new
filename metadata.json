@@ -1,0 +1,6 @@
+{
+  "name": "BuyOman",
+  "description": "Premium electronics and home appliances store in Oman with real-time AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
